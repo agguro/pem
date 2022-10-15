@@ -6,4 +6,4 @@ A.P.Malvino, Ph.D.
 ISBN-13: 978-0028005942
 ISBN-10: 0028005945 
 
-info: admin@agguro.org
+info: admin@agguro.be

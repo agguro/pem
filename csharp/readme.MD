@@ -1,4 +1,4 @@
-The main solution/program is in the directory PEMCollection.  Like the name already reveals it is a collection of 3 microprocessor simumaltions. Each constructed on top of the previous one.
+The main solution/program is in the directory PEMCollection.  Like the name already reveals it is a collection of 3 microprocessor simumlations. Each constructed on top of the previous one.
 
 All three cpu's are derived from the abstract/common components defined in and builded from PEM. Finally it's a .dll file on which the three cpu's depends.
 final file: pem.dll
